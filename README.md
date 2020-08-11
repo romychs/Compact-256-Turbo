@@ -1,5 +1,6 @@
 # Compact-256 Turbo
 *Read this in other languages: [English](README.en.md)*
+
 *Compact-256 Turbo, Российский клон компьютера  ZX-Spectrum*
 
 В данном репозитории представлена принципиальная схема, восстановленная по печатной плате, компьютера Compact-256 Turbo.
