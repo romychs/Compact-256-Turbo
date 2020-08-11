@@ -1,4 +1,4 @@
-#Compact-256 Turbo
+# Compact-256 Turbo
 
 *Compact-256 Turbo, Russian clone of ZX-Spectrum personal computer*
 
